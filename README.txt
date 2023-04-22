@@ -26,3 +26,7 @@
 
 12. Diff between gir rm and git restore ->
 Ans:- if you want to move the whole file back to the untracked  state, then we do 'git rm', otherwise if we just want the changes to be moved in working area or staging area then we use 'git restore'.
+
+13.'git diff commit1 commit2' -> gives the difference of all file changes between two commits.
+
+14. 'git commit -m "<your commit message>" -> if we want to avoid opening of some editor for commit message we can directly send commit message by using this command.
