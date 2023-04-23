@@ -42,3 +42,6 @@ Ans:- if you want to move the whole file back to the untracked  state, then we d
 19.'git remote rename <oldname> <newname'-> this command renames the remote connection.
 
 NOTE:- The name of the remote connection is always used to establish communication between the repos.
+
+
+End.
