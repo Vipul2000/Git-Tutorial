@@ -48,3 +48,11 @@ NOTE:- The name of the remote connection is always used to establish communicati
 21. 'git add . ' -> It adds all file to statging area.
 
 22. 'git pull <remote name> <branch name>' -> downloads latest changes from the branch of the mentioned remote in your local repo.
+
+#### Recommended practice to do.
+
+-make changes
+-git add <file>
+-git commit
+-git pull
+-git push
