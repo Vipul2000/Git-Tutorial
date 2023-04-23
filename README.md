@@ -59,3 +59,4 @@ NOTE:- The name of the remote connection is always used to establish communicati
 
 .
 .
+merge conflicts can occur if multiple people try to make changes to thr same file and collaborate.
