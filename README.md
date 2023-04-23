@@ -43,5 +43,6 @@ Ans:- if you want to move the whole file back to the untracked  state, then we d
 
 NOTE:- The name of the remote connection is always used to establish communication between the repos.
 
+20. 'git add <file1> <file2> <file3>' -> this command will add multiple file changes together in the staging area.
 
-End.
+21. 'git add . ' -> It adds all file to statging area.
