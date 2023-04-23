@@ -59,3 +59,4 @@ NOTE:- The name of the remote connection is always used to establish communicati
 
 .
 .
+23.Merge confilicts are a very common scnerio.
